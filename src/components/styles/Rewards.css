@@ -22,3 +22,17 @@
 .rewards__image > img {
     height: 100%;
 }
+
+.rewards__text h1, .rewards__text h3 {
+    margin: 0;
+    font-weight: 500;
+
+}
+
+.rewards__text h1 {
+    margin-bottom: 24px;
+}
+
+.rewards__text h3 {
+    margin-bottom: 32px;
+}

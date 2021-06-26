@@ -12,6 +12,7 @@
 
 .topBottomSection__topBottom-section {
     width: 50%;
+    display: flex;
 }
 
 .topBottomSection__section__container {
@@ -49,6 +50,8 @@
 .topBottomSection__topBottom-section .topBottomSection__text {
     background-color: #d4e9e2;
     padding: 8px 24px 32px;
+    color: #1e3932;
+    flex-grow: 1;
 }
 
 .topBottomSection__topBottom-section .topBottomSection__image {

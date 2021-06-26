@@ -3,6 +3,7 @@ import "./styles/topBottomSection.css";
 
 const TopBottomSection = () => {
     return (
+        <div className="something">
         <div className="topBottomSection">
             <div className="topBottomSection__topBottom-section">
                 <div className="topBottomSection__section__container">
@@ -48,6 +49,7 @@ const TopBottomSection = () => {
                 </div>
             </div>
 
+        </div>
         </div>
     );
 };

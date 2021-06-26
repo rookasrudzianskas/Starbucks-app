@@ -1,4 +1,31 @@
+.something {
+    max-width: 1440px;
+    margin: 0 auto;
+    z-index: -1;
+}
 .topBottomSection {
     display: flex;
+
+}
+
+.topBottomSection__topBottom-section {
     width: 50%;
+}
+
+.topBottomSection__section__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.topBottomSection__image {
+    width: 100%;
+}
+
+.topBottomSection__image > img {
+    width: 100%;
+}
+
+.topBottomSection__text {
+    display: flex;
+    flex-direction: column;
 }

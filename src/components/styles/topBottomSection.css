@@ -35,3 +35,11 @@
     align-items: center;
     justify-content: center;
 }
+
+.topBottomSection__topBottom-section:first-child {
+    margin-right: 16px;
+}
+
+.topBottomSection__topBottom-section:Last-child {
+    margin-left: 16px;
+}

@@ -2,9 +2,11 @@
     max-width: 1440px;
     margin: 0 auto;
     z-index: -1;
+
 }
 .topBottomSection {
     display: flex;
+    margin-bottom: 32px;
 
 }
 
@@ -55,8 +57,10 @@
 
 .topBottomSection__topBottom-section .topBottomSection__text > h1 {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
     margin-bottom: 24px;
+    text-align: center;
+    color: #1e3932;
     text-align: center;
 }
 
@@ -64,5 +68,7 @@
     line-height: 1.75;
     font-size: 19px;
     font-weight: 500;
+    margin-bottom: 20px;
+    text-align: center;
 
 }

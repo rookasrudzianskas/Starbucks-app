@@ -6,6 +6,7 @@ import Chill from "./components/Chill";
 import TopBottomSection from "./components/Top-BottomSection";
 import Footer from "./components/Footer";
 import End from "./components/End";
+import Empty from "./components/Empty";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Chill />
         <TopBottomSection />
         <End />
+        <Empty />
         <Footer />
     </div>
   );

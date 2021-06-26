@@ -7,6 +7,7 @@ import TopBottomSection from "./components/Top-BottomSection";
 import Footer from "./components/Footer";
 import End from "./components/End";
 import Empty from "./components/Empty";
+import Copyright from "./components/Copyright";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <End />
         <Empty />
         <Footer />
+      <Copyright />
     </div>
   );
 }

@@ -6,7 +6,7 @@ const Announcment = () => {
         <div className="announcement">
             <div className="announcment__mainContainer">
                 <div className="announcements">
-                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi facere quam sequi tempore. Excepturi harum in modi quasi voluptates? <a
+                    <span>Facial coverings are now optional in our stores for our fully vaccinated customers, following CDC guidance, except where local regulations require it by law. <a
                         href="https://www.starbucks.com">Learn More</a></span>
                 </div>
             </div>

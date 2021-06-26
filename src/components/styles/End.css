@@ -1,0 +1,63 @@
+.something {
+    margin-bottom: 32px;
+}
+.end__leftRight__section {
+    display: flex;
+    /*margin-bottom: 32px;*/
+    max-width: 1440px;
+    margin: 0 auto;
+    z-index: -1;
+}
+
+.end__text {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #D4E9E2;
+    color: #1e3932;
+    /*padding: 32px 48px;*/
+}
+
+.end__image {
+    width: 50%;
+    display: flex;
+
+}
+
+.end__image > img {
+    width: 100%;
+}
+
+.end__text h1, .end__text h3 {
+    margin: 0;
+    font-weight: 500;
+
+}
+
+.end__text h1 {
+    margin-bottom: 24px;
+}
+
+.end__text h3 {
+    margin-bottom: 32px;
+    font-size: 19px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.cta {
+    padding: 7px 16px;
+    border: 1px solid;
+    border-radius: 50px;
+    color: #1e3932;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.cta:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: all 0.25s;
+}

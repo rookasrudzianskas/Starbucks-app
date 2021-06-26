@@ -5,6 +5,7 @@ import Rewards from "./components/Rewards";
 import Chill from "./components/Chill";
 import TopBottomSection from "./components/Top-BottomSection";
 import Footer from "./components/Footer";
+import End from "./components/End";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Rewards />
       <Chill />
         <TopBottomSection />
+        <End />
         <Footer />
     </div>
   );

@@ -10,7 +10,7 @@
     align-items: center;
     background-color: #F1F8F6;
     color: #1e3932;
-    padding: 32px 48px;
+    /*padding: 32px 48px;*/
 }
 
 .rewards__image {
@@ -42,5 +42,15 @@
 }
 
 .cta {
+    padding: 7px 16px;
+    border: 1px solid;
+    border-radius: 50px;
+    color: #1e3932;
+    font-weight: 600;
+    cursor: pointer;
+}
 
+.cta:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: all 0.25s;
 }

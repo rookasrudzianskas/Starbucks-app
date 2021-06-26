@@ -1,6 +1,6 @@
 .chill__leftRight__section {
     display: flex;
-    margin-top: 32px;
+
 }
 
 .chill__text {
@@ -11,20 +11,22 @@
     align-items: center;
     background-color: #F2F0EB;
     color: #1e3932;
-    margin-right: 120px;
+    /*margin-right: 120px;*/
     /*padding: 32px 48px;*/
 }
 
 .chill__image {
     width: 50%;
-    height: 625px;
     display: flex;
-    margin-left: 120px;
-    flex: 1;
+
+    /*height: 625px;*/
+    /*display: flex;*/
+    /*margin-left: 120px;*/
+    /*flex: 1;*/
 }
 
 .chill__image > img {
-    height: 100%;
+    width: 100%;
 }
 
 .chill__text h1, .chill__text h3 {

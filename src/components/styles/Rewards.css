@@ -1,5 +1,6 @@
 .rewards__leftRight__section {
     display: flex;
+    margin-bottom: 32px;
 }
 
 .rewards__text {
@@ -15,14 +16,12 @@
 
 .rewards__image {
     width: 50%;
-}
+    display: flex;
 
-.rewards__image {
-    height: 420px;
 }
 
 .rewards__image > img {
-    height: 100%;
+    width: 100%;
 }
 
 .rewards__text h1, .rewards__text h3 {

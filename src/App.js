@@ -4,6 +4,7 @@ import Announcment from "./components/Announcment";
 import Rewards from "./components/Rewards";
 import Chill from "./components/Chill";
 import TopBottomSection from "./components/Top-BottomSection";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Rewards />
       <Chill />
         <TopBottomSection />
+        <Footer />
     </div>
   );
 }

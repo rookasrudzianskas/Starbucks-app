@@ -1,0 +1,55 @@
+.chill__leftRight__section {
+    display: flex;
+    margin-top: 32px;
+}
+
+.chill__text {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F1F8F6;
+    color: #1e3932;
+    /*padding: 32px 48px;*/
+}
+
+.chill__image {
+    width: 50%;
+    height: 420px;
+
+}
+
+.chill__image > img {
+    height: 100%;
+}
+
+.chill__text h1, .chill__text h3 {
+    margin: 0;
+    font-weight: 500;
+
+}
+
+.chill__text h1 {
+    margin-bottom: 24px;
+}
+
+.chill__text h3 {
+    margin-bottom: 32px;
+    font-size: 19px;
+
+}
+
+.cta {
+    padding: 7px 16px;
+    border: 1px solid;
+    border-radius: 50px;
+    color: #1e3932;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.cta:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: all 0.25s;
+}

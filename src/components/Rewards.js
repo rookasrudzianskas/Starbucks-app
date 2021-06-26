@@ -18,6 +18,7 @@ const Rewards = () => {
                     <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-71056.png" alt=""/>
                 </div>
             </div>
+
         </div>
     );
 };

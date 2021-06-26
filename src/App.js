@@ -2,6 +2,7 @@ import './App.css';
 import Header from "./components/Header";
 import Announcment from "./components/Announcment";
 import Rewards from "./components/Rewards";
+import Chill from "./components/Chill";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
         <Announcment />
         <Rewards />
+      <Chill />
     </div>
   );
 }

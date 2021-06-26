@@ -4,3 +4,7 @@
     height: 200px;
     padding: 24px 0;
 }
+
+.footer__container {
+    padding: 0 40px;
+}

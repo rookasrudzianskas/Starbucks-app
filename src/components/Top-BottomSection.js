@@ -13,14 +13,15 @@ const TopBottomSection = () => {
                     </div>
 
                     <div className="topBottomSection__text">
-                        <h1>DELIGHTFULLY CHILL</h1>
-                        <h3>Refresh your day with the bright,
-                            tropical flavors of our Star
-                            Drink and Kiwi Starfruit Starbucks
-                            Refreshers® beverage.</h3>
+                        <h1>Order and pick up. Easy as that.
+                        </h1>
+                        <h3>Just open the app, order your favorites, and enjoy contactless pay. From there, choose whichever pickup method is best for you.</h3>
 
-                        <div className="cta">
-                            Order iced beverage
+                        <div className="cta__container">
+
+                            <div className="cta">
+                                See pickup options
+                            </div>
                         </div>
                     </div>
 
@@ -35,14 +36,14 @@ const TopBottomSection = () => {
                     </div>
 
                     <div className="topBottomSection__text">
-                        <h1>DELIGHTFULLY CHILL</h1>
-                        <h3>Refresh your day with the bright,
-                            tropical flavors of our Star
-                            Drink and Kiwi Starfruit Starbucks
-                            Refreshers® beverage.</h3>
+                        <h1>Floating into summer like…
+                        </h1>
+                        <h3>Keep the laid-back vibes going. Order Starbucks drinks on Uber Eats.**</h3>
 
-                        <div className="cta">
-                            Order iced beverage
+                        <div className="cta__container">
+                            <div className="cta">
+                                Order now
+                            </div>
                         </div>
                     </div>
 

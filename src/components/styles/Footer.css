@@ -1,3 +1,5 @@
+
+
 .footer {
     -webkit-box-shadow: 0px 0px 1px 0px #000000;
     box-shadow: 0px 0px 1px 0px #000000;
@@ -10,7 +12,14 @@
 .footer__container {
     padding: 0 40px;
     display: flex;
+    max-width: 1440px;
+    margin-left: 78px;
 
+}
+
+.footer__container ul li:hover {
+    color: rgba(0, 0, 0, 0.87);
+    transition: all 0.25s;
 }
 
 .footer__container ul {

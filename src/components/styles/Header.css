@@ -19,3 +19,7 @@
 .header__logo > .header__leftNav > img {
     height: 100%;
 }
+
+.header__leftNav {
+    display:  flex;
+}

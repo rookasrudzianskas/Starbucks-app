@@ -8,6 +8,7 @@
     background-color: #d8e8e3;
     display: flex;
     justify-content: center;
+    margin-bottom: 32px;
 }
 
 .announcements span {

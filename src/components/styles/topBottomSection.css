@@ -29,3 +29,9 @@
     display: flex;
     flex-direction: column;
 }
+
+.cta__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

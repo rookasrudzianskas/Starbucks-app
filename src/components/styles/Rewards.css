@@ -1,0 +1,19 @@
+.rewards__leftRight__section {
+    display: flex;
+}
+
+.rewards__text {
+    width: 50%;
+}
+
+.rewards__image {
+    width: 50%;
+}
+
+.rewards__image {
+    height: 420px;
+}
+
+.rewards__image > img {
+    height: 100%;
+}

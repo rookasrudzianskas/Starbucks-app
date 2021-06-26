@@ -1,5 +1,6 @@
 import React from 'react';
 import "./styles/Header.css";
+import LocationOnIcon from '@material-ui/icons/LocationOn';
 
 const Header = () => {
     return (
@@ -18,6 +19,20 @@ const Header = () => {
                         </div>
 
                         <div className="header__rightNav">
+
+                                <div className="header__findStore">
+                                    <LocationOnIcon className="header__locationIcon" />
+                                    <span>Find_a_store</span>
+                                </div>
+
+                                <div className="header__signIn">
+
+                                </div>
+
+                            <div className="header__joinNow">
+
+                            </div>
+
 
                         </div>
                     </div>

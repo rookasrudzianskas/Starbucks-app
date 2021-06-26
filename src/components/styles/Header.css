@@ -40,3 +40,9 @@
     font-weight: 700;
     letter-spacing: 0.1em;
 }
+
+.header__leftNav ul li:hover {
+    color: #008248;
+    transition: all 0.25s;
+    cursor: pointer;
+}

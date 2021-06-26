@@ -46,6 +46,7 @@
 
 .topBottomSection__topBottom-section .topBottomSection__text {
     background-color: #d4e9e2;
+    padding: 8px 24px 32px;
 }
 
 .topBottomSection__topBottom-section .topBottomSection__image {
@@ -57,4 +58,11 @@
     font-weight: 400;
     margin-bottom: 24px;
     text-align: center;
+}
+
+.topBottomSection__topBottom-section .topBottomSection__text > h3 {
+    line-height: 1.75;
+    font-size: 19px;
+    font-weight: 500;
+
 }

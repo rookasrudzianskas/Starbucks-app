@@ -67,6 +67,13 @@
     background-color: black;
     color: white;
     padding: 8px;
+    border-color: black;
+}
+
+.header__joinNow:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-color: rgba(0, 0, 0, 0.7);
+    transition: all 0.25s;
 }
 
 .header__signIn {

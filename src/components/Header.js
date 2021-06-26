@@ -12,7 +12,7 @@ const Header = () => {
                                 <ul>
                                     <li>Menu</li>
                                     <li>Rewards</li>
-                                    <li>Gift Cards</li>
+                                    <li>GiftCards</li>
                                 </ul>
                             </div>
                         </div>

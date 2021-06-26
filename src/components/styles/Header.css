@@ -7,11 +7,12 @@
 .header__container {
     max-width: 1440px;
     margin: 0 auto;
-    background-color: yellow;
     height: 100%;
+    display: flex;
+    align-items: center;
 }
 
-.header__leftNav {
+.header__logo {
     height: 51px;
     width: 51px;
 }
@@ -22,4 +23,20 @@
 
 .header__leftNav {
     display:  flex;
+    height: 100%;
+    align-items: center;
+}
+
+.header__nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.header__leftNav ul li {
+    text-transform: uppercase;
+    padding-left: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
 }

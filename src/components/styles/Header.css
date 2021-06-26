@@ -17,7 +17,7 @@
     width: 51px;
 }
 
-.header__logo > .header__leftNav > img {
+.header__leftNav > .header__logo >  img {
     height: 100%;
 }
 
@@ -25,6 +25,7 @@
     display:  flex;
     height: 100%;
     align-items: center;
+    flex:  1;
 }
 
 .header__nav > ul {
@@ -45,4 +46,23 @@
     color: #008248;
     transition: all 0.25s;
     cursor: pointer;
+}
+
+.header__rightNav {
+    display: flex;
+    align-items: center;
+}
+
+.header__findStore {
+    display: flex;
+    align-items: center;
+}
+
+.header__signIn {
+    padding: 7px 16px;
+    border: 1px solid;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+    line-height: 1.2;
 }

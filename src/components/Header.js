@@ -6,14 +6,16 @@ const Header = () => {
     return (
         <div className="header">
             <div className="header__container">
-                    <div className="header__logo">
                         <div className="header__leftNav">
+                    <div className="header__logo">
                             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png" alt=""/>
-                            <div className="header__nav">
+                        </div>
+
+                        <div className="header__nav">
                                 <ul>
                                     <li>Menu</li>
                                     <li>Rewards</li>
-                                    <li>GiftCards</li>
+                                    <li>Gift Cards</li>
                                 </ul>
                             </div>
                         </div>
@@ -22,20 +24,19 @@ const Header = () => {
 
                                 <div className="header__findStore">
                                     <LocationOnIcon className="header__locationIcon" />
-                                    <span>Find_a_store</span>
+                                    <span>Find a store</span>
                                 </div>
 
                                 <div className="header__signIn">
-
+                                    Sign In
                                 </div>
 
                             <div className="header__joinNow">
-
+                                Join now
                             </div>
 
 
                         </div>
-                    </div>
             </div>
         </div>
     );

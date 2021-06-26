@@ -53,6 +53,18 @@ const Footer = () => {
                     </ul>
                 </div>
 
+                <div className="footer__linksContainer">
+                    <h3>Order and Pickup</h3>
+
+                    <ul>
+                        <li>Order on the app</li>
+                        <li>Order on the web</li>
+                        <li>Delivery</li>
+                        <li>Order and Pickup Options</li>
+                        <li>Explore and Find the coffee for home</li>
+                    </ul>
+                </div>
+
 
             </div>
         </div>

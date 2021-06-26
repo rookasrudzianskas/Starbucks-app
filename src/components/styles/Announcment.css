@@ -1,0 +1,10 @@
+.announcment__mainContainer {
+    max-width: 1440px;
+    margin: 0 auto;
+    z-index: -1;
+}
+
+.announcements {
+    background-color: #d8e8e3;
+
+}

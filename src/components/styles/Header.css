@@ -80,6 +80,12 @@
     margin-right: 16px;
 }
 
+.header__signIn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: all 0.25s;
+}
+
+
 .header__findStore {
     margin-right: 40px;
     font-weight: 600;

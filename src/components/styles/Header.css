@@ -11,11 +11,11 @@
     height: 100%;
 }
 
-.header__logo {
+.header__leftNav {
     height: 51px;
     width: 51px;
 }
 
-.header__logo > img {
+.header__logo > .header__leftNav > img {
     height: 100%;
 }

@@ -6,6 +6,16 @@
 
 .announcements {
     background-color: #d8e8e3;
-    height: 300px;
+    display: flex;
+    justify-content: center;
+}
 
+.announcements span {
+    padding-top: 3.2rem;
+    padding-bottom: 3.2rem;
+    max-width: 60%;
+    text-align: center;
+    font-size: 19px;
+    line-height: 1.75;
+    font-weight: 500;
 }

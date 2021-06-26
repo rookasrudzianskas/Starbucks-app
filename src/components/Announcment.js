@@ -6,7 +6,8 @@ const Announcment = () => {
         <div className="announcement">
             <div className="announcment__mainContainer">
                 <div className="announcements">
-                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi facere quam sequi tempore. Excepturi harum in modi quasi voluptates?</span>
+                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi facere quam sequi tempore. Excepturi harum in modi quasi voluptates? <a
+                        href="https://www.starbucks.com">Learn More</a></span>
                 </div>
             </div>
         </div>

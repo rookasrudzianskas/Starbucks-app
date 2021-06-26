@@ -58,11 +58,31 @@
     align-items: center;
 }
 
-.header__signIn {
+.header__signIn, .header__joinNow {
     padding: 7px 16px;
     border: 1px solid;
     border-radius: 50px;
     cursor: pointer;
     font-weight: 600;
     line-height: 1.2;
+}
+
+.header__joinNow {
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+
+.header__signIn {
+    margin-right: 16px;
+}
+
+.header__findStore {
+    margin-right: 40px;
+    font-weight: 600;
+}
+
+.header__locationIcon > .MuiSvgIcon-root {
+    padding-right: 8px !important;
+    font-size: 24px !important;
 }

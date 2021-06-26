@@ -43,6 +43,15 @@
 
 .chill__text h1 {
     margin-bottom: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 8px;
+}
+
+.chill__text h3 {
+
 }
 
 .chill__text h3 {

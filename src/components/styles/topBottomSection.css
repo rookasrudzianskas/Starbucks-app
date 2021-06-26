@@ -43,3 +43,18 @@
 .topBottomSection__topBottom-section:Last-child {
     margin-left: 16px;
 }
+
+.topBottomSection__topBottom-section .topBottomSection__text {
+    background-color: #d4e9e2;
+}
+
+.topBottomSection__topBottom-section .topBottomSection__image {
+    display: flex;
+}
+
+.topBottomSection__topBottom-section .topBottomSection__text > h1 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    text-align: center;
+}

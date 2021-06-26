@@ -8,7 +8,7 @@ const TopBottomSection = () => {
                 <div className="topBottomSection__section__container">
 
                     <div className="topBottomSection__image">
-                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" alt=""/>
+                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-70203.jpg" alt=""/>
                     </div>
 
                     <div className="topBottomSection__text">
@@ -30,7 +30,7 @@ const TopBottomSection = () => {
                 <div className="topBottomSection__section__container">
 
                     <div className="topBottomSection__image">
-                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" alt=""/>
+                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72045.jpg" alt=""/>
                     </div>
 
                     <div className="topBottomSection__text">
